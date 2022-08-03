@@ -1,0 +1,13 @@
+body{
+    background-color: #d3f5cf;
+    padding: 10px;
+}
+
+form{
+    margin: auto;
+    display: flex;
+    background-color: #a0e09e;
+    height: 615px;
+    width: 90%;
+    border-radius: 30px;
+}
